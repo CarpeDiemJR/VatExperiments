@@ -8,4 +8,4 @@ could be refered in _Virtual Adversarial Training: a Regularization Method for S
 I want to rewrite the code in Tensorflow 2.0 manner and then show that imbalanced dataset has a significant impact on VAT model. To save the computational cost, the neaural network used here would be dense nets and dataset would be MNIST.
 
 ## Context
-Objective function, <img src="https://latex.codecogs.com/svg.latex?\ell(x_l; \theta) + " title="sin(x)" />
+Objective function, <img src="https://latex.codecogs.com/svg.latex?\ell(x_l;\theta)+\alpha\mathcal{R}" title="sin(x)" />
