@@ -9,3 +9,10 @@ I want to rewrite the code in Tensorflow 2.0 manner and then show that imbalance
 
 ## Context
 Objective function, <img src="https://latex.codecogs.com/svg.latex?\ell(x_l;\theta)+\alpha\mathcal{R}" title="sin(x)" />
+
+## Results
+![ib=1.0](References/test_confusion_matrix_with_1.0.png "1.0")
+
+![ib=0.9](References/test_confusion_matrix_with_0.9.png)
+
+![ib=0.8](References/test_confusion_matrix_with_0.8.png)
